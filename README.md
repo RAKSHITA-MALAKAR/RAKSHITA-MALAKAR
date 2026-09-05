@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -237,7 +238,7 @@ I'm always curious to learn something new, improve my coding skills, and turn id
 
 ## 🎯 Current Focus
 
-```text
+```yaml
 learning:
   - Data Structures & Algorithms
   - Advanced Java & Problem Solving
@@ -261,6 +262,7 @@ open_to:
   - Full Stack / Backend Development Opportunities
   - Web Development Internships
   - Collaborative Projects & Open Source
+```
 
 ---
 
