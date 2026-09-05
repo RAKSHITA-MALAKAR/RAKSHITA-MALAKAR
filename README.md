@@ -38,28 +38,17 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAKSHITA-MALAKAR&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RAKSHITA-MALAKAR?style=flat-square&color=6C63FF&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/RAKSHITA-MALAKAR?style=flat-square&color=7B2FBE&label=STARS" alt="Stars" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I'm **RAKSHITA MALAKAR** — a passionate **Full Stack Developer** driven by a deep curiosity for building robust, user-centric software that solves real-world problems.
+Hi, I'm **Rakshita Malakar**, a **Full Stack Developer** who enjoys building things, learning new technologies, and figuring out how to make applications work better.
 
-Software engineering is not just what I do; it is what I love. I approach every project with an engineering mindset — focusing on **clean architecture**, **scalable systems**, and **delightful user experiences**. From designing intuitive frontend interfaces to architecting efficient backend APIs, I thrive on turning complex requirements into elegant, production-grade solutions.
+I started with **Java** and gradually moved into **web development**, working with React.js, Node.js, Express.js, and MySQL. I enjoy working on both frontend and backend because I like understanding how the different parts of an application connect with each other.
 
-My foundation in **Java**, paired with hands-on expertise in the **React.js / Node.js / MySQL** stack, allows me to work seamlessly across the entire application lifecycle. I am continuously exploring AI/ML concepts to infuse modern intelligence into the products I build.
+I've worked on projects like **HR management systems and web applications**, where I've had the opportunity to work with APIs, databases, authentication, UI development, and different real-world features. Along the way, I've also been exploring AI and Machine Learning to understand how they can be used in software applications.
 
-I believe great software is born at the intersection of **technical excellence**, **product thinking**, and **collaborative engineering** — a philosophy I carry into every repository I touch.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-Full%20Time%20%7C%20Internships%20%7C%20Freelance-6C63FF?style=for-the-badge" alt="Open To" />
-</div>
+I'm always curious to learn something new, improve my coding skills, and turn ideas into working projects. I don't claim to know everything — I'm still learning, experimenting, making mistakes, and getting better with every project.
 
 ---
 
@@ -93,65 +82,26 @@ I believe great software is born at the intersection of **technical excellence**
 
 ## 🚀 Featured Projects
 
-<details>
-  <summary><strong><span style="color:#9D4EDD">Project Name One</span></strong> — Brief tagline summarizing the project</summary>
+### <span style="color:#9D4EDD">HUMAN RESOURCE MANAGEMENT SYSTEM</span>
+**A full-stack platform for streamlining employee, project, task, attendance, leave, and performance management**
 
-  <br/>
+<br/>
 
-  > A professional, detailed description of what this project does, the problem it solves, the target audience, and the value it delivers. Replace this with a compelling narrative about your real project.
+> A comprehensive Human Resource Management System designed to centralize and simplify core organizational operations. The platform enables organizations to manage employees, projects, tasks, attendance, leave, performance, expenses, recruitment, and reports through a unified web application.
 
-  | Attribute | Detail |
-  |-----------|--------|
-  | **Stack** | Java · React.js · Node.js · MySQL |
-  | **Scale** | Handles X concurrent users with optimized query performance |
-  | **Performance** | Sub-second response times across core operations |
-  | **Security** | JWT authentication, input validation, role-based access control |
-  | **Impact** | Solved X real problem / contributed to X outcomes |
-  | **Repository** | [View Repository](https://github.com/RAKSHITA-MALAKAR) |
 
-  **Why this project matters:** Explain the architecture decisions, the engineering challenges overcome, and what you learned building it. Detail the design patterns used, the trade-offs considered, and how this project demonstrates production-grade engineering skills.
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | React.js · TypeScript · Tailwind CSS · Node.js · Express.js · MySQL |
+| **Frontend** |  React.js, TypeScript, Tailwind CSS, React Router |
+| **Backend** | Node.js, Express.js, REST APIs  |
+| **Database** |  MySQL / MariaDB  |
+| **Authentication** | JWT authentication, OTP verification, Google OAuth |
+| **Core Modules** | Recruitment · Projects · Tasks · Attendance · Leave · Performance · Expenses · Reports & Analytics |
+| **File Management** | Multer-based document and task attachment uploads |
+| **API Integration** | RESTful APIs using Fetch and Axios |
 
-</details>
-
-<details>
-  <summary><strong><span style="color:#6C63FF">Project Name Two</span></strong> — Brief tagline summarizing the project</summary>
-
-  <br/>
-
-  > A professional, detailed description of what this project does, the problem it solves, the target audience, and the value it delivers. Replace this with a compelling narrative about your real project.
-
-  | Attribute | Detail |
-  |-----------|--------|
-  | **Stack** | React.js · Node.js · Express.js · MongoDB |
-  | **Scale** | Designed for X users with scalable data architecture |
-  | **Performance** | Optimized rendering and API response times |
-  | **Security** | Secure authentication and data protection practices |
-  | **Impact** | Improved X / enabled Y for the end users |
-  | **Repository** | [View Repository](https://github.com/RAKSHITA-MALAKAR) |
-
-  **Why this project matters:** Explain the architecture decisions, the engineering challenges overcome, and what you learned building it. Detail the design patterns used, the trade-offs considered, and how this project demonstrates production-grade engineering skills.
-
-</details>
-
-<details>
-  <summary><strong><span style="color:#7B2FBE">Project Name Three</span></strong> — Brief tagline summarizing the project</summary>
-
-  <br/>
-
-  > A professional, detailed description of what this project does, the problem it solves, the target audience, and the value it delivers. Replace this with a compelling narrative about your real project.
-
-  | Attribute | Detail |
-  |-----------|--------|
-  | **Stack** | Java · MySQL · HTML · CSS |
-  | **Scale** | Robust core logic supporting X workflows |
-  | **Performance** | Efficient algorithms and database design |
-  | **Security** | Data integrity and access safeguards |
-  | **Impact** | Delivered tangible value in X context |
-  | **Repository** | [View Repository](https://github.com/RAKSHITA-MALAKAR) |
-
-  **Why this project matters:** Explain the architecture decisions, the engineering challenges overcome, and what you learned building it. Detail the design patterns used, the trade-offs considered, and how this project demonstrates production-grade engineering skills.
-
-</details>
+**Why this project matters:** This project demonstrates practical full-stack development by combining a modular React and TypeScript frontend with a Node.js/Express backend and relational MySQL database. I worked on building reusable UI components, integrating REST APIs, implementing authentication flows, handling file uploads, designing database relationships, and debugging frontend-backend integration issues. The project strengthened my understanding of scalable application architecture, API development, database management, authentication, validation, and production-oriented development practices.
 
 ---
 
@@ -161,23 +111,33 @@ I believe great software is born at the intersection of **technical excellence**
   <img src="https://img.shields.io/badge/Experience-Fresher%20%2F%20Junior-9D4EDD?style=for-the-badge" alt="Experience Level" />
 </div>
 
-### <span style="color:#9D4EDD">Job Title</span> — <span style="color:#6C63FF">Company Name</span>
+### <span style="color:#9D4EDD">Job Title</span> — <span style="color:#6C63FF">Eleva8CXM</span>
 
-**Date Range** · Location
+**Date Range** · Ajmer
 
-> A professional description of the role, responsibilities, and the overall mission of your work at this company. Replace with your real experience details.
+> Working on the development of a full-stack Human Resource Management System (HRMS), contributing to both frontend and backend development. Involved in building responsive interfaces, developing REST APIs, integrating MySQL databases, and implementing core HRMS modules.
 
 **Scope of Work:**
-- Delivered high-quality full stack features across the product, from frontend UI to backend APIs.
-- Collaborated with cross-functional teams to translate business requirements into technical solutions.
-- Followed industry best practices for code quality, testing, and version control.
+- Developed and enhanced HRMS modules using **React.js, TypeScript, Node.js, Express.js, and MySQL**.
+- Built responsive and reusable frontend components using **React.js and Tailwind CSS**.
+- Developed and integrated **REST APIs** for authentication, projects, tasks, files, and other HRMS functionalities.
+- Worked on **JWT-based authentication, OTP verification, password recovery, and Google OAuth** integration.
+- Implemented project and task management features including **team assignment, watchers, attachments, and file uploads**.
+- Designed and integrated **MySQL/MariaDB database tables and relationships** with backend APIs.
+- Tested features, debugged frontend-backend integration issues, and improved application reliability.
+- Analyzed **Business Requirement Documents (BRDs)** and translated functional requirements into technical implementations.
+
 
 **Skills:**
 <p>
-  <img src="https://img.shields.io/badge/Java-6C63FF?style=flat-square" alt="Java" />
   <img src="https://img.shields.io/badge/React.js-9D4EDD?style=flat-square" alt="React.js" />
+  <img src="https://img.shields.io/badge/TypeScript-6C63FF?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-7B2FBE?style=flat-square" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-6C63FF?style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Express.js-6C63FF?style=flat-square" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MySQL-9D4EDD?style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-7B2FBE?style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-9D4EDD?style=flat-square" alt="JWT" />
 </p>
 
 ---
@@ -232,82 +192,75 @@ I believe great software is born at the intersection of **technical excellence**
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/RakshitaMalakar">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/RakshitaMalakar">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/RakshitaMalakar">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAKSHITA-MALAKAR&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RAKSHITA-MALAKAR&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" 
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITA-MALAKAR&hide_border=true&stroke=9D4EDD&ring=6C63FF&fire=7B2FBE&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=RAKSHITA-MALAKAR&hide_border=true&stroke=9D4EDD&ring=6C63FF&fire=7B2FBE&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&background=0d1117" 
+    alt="GitHub Streak"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITA-MALAKAR&layout=compact&hide_border=true&title_color=9D4EDD&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</p>
 
-</div>
+<p align="center">
 
----
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITA-MALAKAR&layout=compact&hide_border=true&title_color=9D4EDD&text_color=ffffff&bg_color=0d1117&langs_count=8" 
+    alt="Top Languages"
+  />
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RAKSHITA-MALAKAR&theme=onedark&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&title_color=9D4EDD&icon_color=6C63FF" alt="GitHub Trophies" />
-
-</div>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITA-MALAKAR&bg_color=0d1117&color=9D4EDD&line=6C63FF&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/RAKSHITA-MALAKAR">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITA-MALAKAR&bg_color=0d1117&color=ffffff&line=9D4EDD&point=6C63FF&area=true&hide_border=true"
+      alt="Rakshita's GitHub Contribution Activity"
+    />
+  </a>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-```yaml
+```text
 learning:
-  - Advanced Data Structures & Algorithms
-  - Cloud Computing & System Design
-  - AI / ML Concepts for Modern Applications
+  - Data Structures & Algorithms
+  - Advanced Java & Problem Solving
+  - Backend Development with Node.js & Express.js
+  - Database Design & SQL
 
 building:
-  - Production-grade Full Stack Applications
-  - Open Source Contributions
-  - Scalable & Maintainable Codebases
+  - Full Stack Applications with React & Node.js
+  - Scalable and Maintainable Web Applications
+  - Real-world HRMS Features & Modules
+  - REST APIs and Database-driven Applications
 
-exploring:
-  - Microservices Architecture
-  - Serverless Computing
-  - Generative AI & LLM Integration
+improving:
+  - DSA & Competitive Programming
+  - System Design Fundamentals
+  - Clean Code & Software Architecture
+  - Git, GitHub & Development Best Practices
 
 open_to:
-  - Full-Time Software Engineering Roles
-  - Internships in Web / Backend Development
-  - Freelance Full Stack Projects
-  - Collaborative Open Source Work
-```
+  - Software Engineering Roles
+  - Full Stack / Backend Development Opportunities
+  - Web Development Internships
+  - Collaborative Projects & Open Source
 
 ---
 
@@ -335,6 +288,3 @@ open_to:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=140&section=footer&text=RAKSHITA%20MALAKAR&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" alt="Footer Banner" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Crafted%20with%20%E2%9C%A8%20by%20RAKSHITA%20MALAKAR-6C63FF?style=for-the-badge" alt="Crafted by" />
-</p>
