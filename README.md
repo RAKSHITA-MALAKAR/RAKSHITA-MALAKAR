@@ -193,49 +193,6 @@ I'm always curious to learn something new, improve my coding skills, and turn id
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RAKSHITA-MALAKAR&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=6C63FF&text_color=ffffff&bg_color=0d1117" 
-    alt="GitHub Stats"
-  />
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=RAKSHITA-MALAKAR&hide_border=true&stroke=9D4EDD&ring=6C63FF&fire=7B2FBE&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&background=0d1117" 
-    alt="GitHub Streak"
-  />
-
-</p>
-
-<p align="center">
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITA-MALAKAR&layout=compact&hide_border=true&title_color=9D4EDD&text_color=ffffff&bg_color=0d1117&langs_count=8" 
-    alt="Top Languages"
-  />
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/RAKSHITA-MALAKAR">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITA-MALAKAR&bg_color=0d1117&color=ffffff&line=9D4EDD&point=6C63FF&area=true&hide_border=true"
-      alt="Rakshita's GitHub Contribution Activity"
-    />
-  </a>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
