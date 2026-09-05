@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=180&section=header&text=RAKSHITA%20MALAKAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <a href="https://github.com/RAKSHITA-MALAKAR">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=180&section=header&text=RAKSHITA%20MALAKAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+         width="100%"
+         alt="RAKSHITA MALAKAR" />
+  </a>
 </p>
 
 <p align="center">
