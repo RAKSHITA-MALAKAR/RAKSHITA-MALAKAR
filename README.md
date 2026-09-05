@@ -7,18 +7,24 @@
 </p>
 
 <p align="center">
+   <a href="https://github.com/RAKSHITA-MALAKAR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Full+Stack+Developer;Building+Scalable+%26+Elegant+Web+Applications;Java+%7C+React+%7C+Node.js+%7C+MySQL;Passionate+About+Clean+%26+Efficient+Code" alt="Typing Animation" />
+   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/RAKSHITA-MALAKAR">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-6C63FF?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-9D4EDD?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
   <img src="https://img.shields.io/badge/Software%20Engineering%20Student-7B2FBE?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Student" />
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/RAKSHITA-MALAKAR">
   <img src="https://img.shields.io/badge/Location-India-6C63FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Email-rakshitamalakar1527@gmail.com-9D4EDD?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
